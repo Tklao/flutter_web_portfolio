@@ -59798,7 +59798,7 @@ $.b7=1
 $.a9C=null
 $.a7O=A.aG(t.N)
 $.al0=A.x(t.S,A.N("asv"))
-$.ar1=["../assets/image/html.png","../assets/image/css.png","../assets/image/js.png","../assets/image/node.png","../assets/image/sql.png","../assets/image/git.png","../assets/image/flutter.png"]})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
+$.ar1=["../assets/images/html.png","../assets/images/css.png","../assets/images/js.png","../assets/images/node.png","../assets/images/sql.png","../assets/images/git.png","../assets/images/flutter.png"]})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"atL","bz",()=>A.aqo(A.yw().navigator.vendor,B.d.Hc(A.yw().navigator.userAgent)))
 s($,"aue","dw",()=>A.aqp())
 r($,"arR","a8j",()=>A.Cb(8))
