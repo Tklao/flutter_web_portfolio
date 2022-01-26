@@ -7,7 +7,7 @@ class TecnologyCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(top: 20.0),
+      padding: const EdgeInsets.only(top: 10.0),
       child: Card(
         color: Colors.transparent,
         elevation: 0.0,

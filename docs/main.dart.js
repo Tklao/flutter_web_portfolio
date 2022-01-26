@@ -55646,7 +55646,7 @@ A.Bj.prototype={
 N(a,b){var s,r=null,q=t.w,p=b.U(q).f
 q=b.U(q).f
 s=t.F
-return new A.v6(new A.ry(A.jI(A.ajV(A.a([A.vo("Ol\xe1, seja bem vindo(a) ao meu portfolio.",r,A.aaj(B.cO,r),r,r),A.vo("Eu me chamo Carlos Eduardo, tenho 26 anos e acho fascinante o que algumas linhas de c\xf3digos podem fazer. Atualmente curso An\xe1lise de sistemas e sou estagi\xe1rio de TI na universidade Augusto Motta, mais conhecida como Unisuam.",!0,A.p0(r,r,r,r,r,r,r,r,r,r,r,16,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),B.dK,r),new A.Ax(2,B.cO,r),A.vo("Para conhecer mais sobre meus projetos ou trajet\xf3ria, confira abaixo no Github e linkedin",r,A.p0(r,r,r,r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.eJ(B.xP,A.a6V(A.a([new A.rQ("GitHub",A.a6j(B.xw),new A.R2(),r),new A.FE(r),new A.rQ("Linkedin",A.a6j(B.xx),new A.R3(),r)],s),B.cP,B.q0,B.eY),r)],s),B.cP,B.q0),p.a.b,q.a.a*0.5),B.yy,B.wy,r),B.wA,400,400,r)}}
+return new A.v6(new A.ry(A.jI(A.ajV(A.a([A.vo("Ol\xe1, seja bem vindo(a) ao meu portfolio.",r,A.aaj(B.cO,r),r,r),A.vo("Eu me chamo Carlos Eduardo, tenho 26 anos e acho fascinante o que algumas linhas de c\xf3digos podem fazer. Atualmente curso An\xe1lise de sistemas e sou estagi\xe1rio de TI na universidade Augusto Motta, mais conhecida como Unisuam.",!0,A.p0(r,r,r,r,r,r,r,r,r,r,r,16,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),B.dK,r),new A.Ax(2,B.cO,r),A.vo("Para conhecer mais sobre meus projetos ou trajet\xf3ria, confira abaixo no Github e linkedin",r,A.p0(r,r,r,r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.eJ(B.xQ,A.a6V(A.a([new A.rQ("GitHub",A.a6j(B.xw),new A.R2(),r),new A.FE(r),new A.rQ("Linkedin",A.a6j(B.xx),new A.R3(),r)],s),B.cP,B.q0,B.eY),r)],s),B.cP,B.q0),p.a.b,q.a.a*0.5),B.yy,B.wy,r),B.wA,400,400,r)}}
 A.R2.prototype={
 $0(){var s=0,r=A.a1(t.H)
 var $async$$0=A.a2(function(a,b){if(a===1)return A.Z(b,r)
@@ -55675,7 +55675,7 @@ $2(a,b){return new A.oT($.ar1[b],null)},
 $S:349}
 A.oT.prototype={
 N(a,b){var s=null
-return new A.eJ(B.xQ,new A.zi(B.a2,0,new A.ni(new A.mw(this.c),s,B.a7,s),s),s)}}
+return new A.eJ(B.xP,new A.zi(B.a2,0,new A.ni(new A.mw(this.c),s,B.a7,s),s),s)}}
 A.C9.prototype={
 N(a,b){var s=null
 return A.hW(s,s,s,s,s,s,s,s)}}
@@ -57832,8 +57832,8 @@ B.c1=new A.ay(6e5)
 B.eh=new A.ay(75e3)
 B.xO=new A.ay(-38e3)
 B.ay=new A.bb(0,0,0,0)
-B.xP=new A.bb(0,15,0,0)
-B.xQ=new A.bb(0,20,0,0)
+B.xP=new A.bb(0,10,0,0)
+B.xQ=new A.bb(0,15,0,0)
 B.xR=new A.bb(0,20,150,0)
 B.xS=new A.bb(13,13,13,13)
 B.kC=new A.bb(16,0,16,0)
