@@ -57923,7 +57923,7 @@ B.yv=new A.l_(0,"repeat")
 B.yw=new A.l_(1,"repeatX")
 B.yx=new A.l_(2,"repeatY")
 B.c3=new A.l_(3,"noRepeat")
-B.tz=new A.mw("./assets/images/perfil.png")
+B.tz=new A.mw("../assets/images/perfil.png")
 B.tS=new A.qH(1,"contain")
 B.yy=new A.ni(B.tz,B.tS,B.jX,null)
 B.yB=new A.ia(0,0.1,B.a9)
@@ -59798,7 +59798,7 @@ $.b7=1
 $.a9C=null
 $.a7O=A.aG(t.N)
 $.al0=A.x(t.S,A.N("asv"))
-$.ar1=["../assets/logo/html.png","../assets/logo/css.png","../assets/logo/js.png","../assets/logo/node.png","../assets/logo/sql.png","../assets/logo/git.png","../assets/logo/flutter.png"]})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
+$.ar1=["../assets/image/html.png","../assets/image/css.png","../assets/image/js.png","../assets/image/node.png","../assets/image/sql.png","../assets/image/git.png","../assets/image/flutter.png"]})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"atL","bz",()=>A.aqo(A.yw().navigator.vendor,B.d.Hc(A.yw().navigator.userAgent)))
 s($,"aue","dw",()=>A.aqp())
 r($,"arR","a8j",()=>A.Cb(8))

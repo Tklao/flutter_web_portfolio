@@ -80,7 +80,7 @@ class Header extends StatelessWidget {
               ],
             )),
         background: const Image(
-          image: AssetImage('./assets/images/perfil.png'),
+          image: AssetImage('../assets/images/perfil.png'),
           fit: BoxFit.contain,
           alignment: Alignment.bottomRight,
         ),
